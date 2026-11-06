@@ -1,0 +1,8 @@
+mlflow.db
+mlruns/
+model.joblib
+reference.csv
+metrics.json
+drift_report.csv
+__pycache__/
+.pytest_cache/

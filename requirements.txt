@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+scipy
+mlflow
+joblib
+pytest
+ruff
